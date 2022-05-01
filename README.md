@@ -29,10 +29,10 @@ Spielstarten vom Spielpfad aus:
 **Linux(Debian/Ubuntu/Mint):**
 
 Installation von Pygame Konsoleneingabe: 
->sudo apt-get install python3-pygame
+>py -m pip3 install -U pygame
 
 Installation von Pygame_menu Konsoleneingabe:  
->sudo apt-get install python3-pygame-menu
+>py -m pip3 install pygame-menu -U
 
 Spielstarten vom Spielpfad aus:
 >python3 main.py
