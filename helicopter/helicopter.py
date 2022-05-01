@@ -19,8 +19,8 @@ class Helikopter(pygame.sprite.Sprite):
     def respawn(self):
         # Random bereich zum spawnen damit der Spieler nicht immer vom gleichen Spawn ausgeht
         self.position = pygame.math.Vector2(
-            randrange(-500, 1000, 10),
-            randrange(200, 1000, 10),
+            randrange(-500, 0, 10),
+            randrange(300, 1500, 10),
         )
 
     def move(self, playerpos):
