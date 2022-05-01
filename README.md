@@ -45,7 +45,7 @@ Zum Fortbewegen im Spiel benutzen sie die Tasten
    - S: Nach unten
    - D: Nach Rechts
   
-Ziel des Spiels ist es 80% der Erze ins Depot zu fahren dafür müssen sie nur dem Helikopter ausweichen und auf den Tank aufpassen. Sie können tanken in dem sie zur Zapfseule fahren. <br><br>
+Ziel des Spiels ist es 80% der Erze ins Depot zu fahren dafür müssen sie nur dem Helikopter ausweichen und auf den Tank aufpassen. Sie können tanken in dem sie zur Zapfsäule fahren. <br><br>
 Erze werden automatisch an der Erzbruchstelle aufgesammelt sobald sie diese<br> berühren genauso geht auch das abliefern bei dem Erzdepot<br>
 
 <br>
